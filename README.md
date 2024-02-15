@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+babylonjs-with-virtual-reality
+# BabylonJS with Virtual Reality
 
-Based on "ABC" at https://www.abc.com/
+Based on "Unlock the Magic of VR with Babylon.js!" at https://www.gmihub.com/blog/virtual-reality-with-babylon-js/
 
 ## 100 - Introduction
 
